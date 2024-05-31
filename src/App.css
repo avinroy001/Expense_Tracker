@@ -1,0 +1,52 @@
+body {
+  background-color: #3B3B3B;
+  color: white
+}
+
+.trackerWrapper {
+  background-color: #626262;
+  width: 98vw;
+  margin: 13px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.walletWrapper {
+  background-color: #9B9B9B;
+  margin: 30px;
+  text-align: center;
+  padding: 40px;
+  border-radius: 10px;
+  width: 355.41px;
+  p {
+      font-size: 30px;
+      font-weight: 400;
+  }
+}
+
+.btn {
+  background: linear-gradient(90deg, #B5DC52 0%, #89E148 100%);
+  color: white;
+  font-weight: 700;
+  font-size: 16px;
+  border: none;
+  width: 167px;
+  height: 38px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.btn2 {
+  background: linear-gradient(90deg, #FF9595 0%, #FF4747 100%, #FF3838 100%);
+  color: white;
+  font-weight: 700;
+  font-size: 16px;
+  border: none;
+  width: 167px;
+  height: 38px;
+  border-radius: 10px;
+  cursor: pointer;
+}
